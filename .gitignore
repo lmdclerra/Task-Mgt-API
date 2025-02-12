@@ -1,0 +1,7 @@
+# Ignore the virtual environment folder 
+env/
+
+# Other files and folders to ignore
+*.pyc
+__pycache__/
+.vscode/
